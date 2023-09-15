@@ -1,0 +1,16 @@
+C:\Examples\task15\obj\Debug\net6.0\task15.GlobalUsings.g.cs
+C:\Examples\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+C:\Examples\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+C:\Examples\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+C:\Examples\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+C:\Examples\task15\bin\Debug\net6.0\task15.exe
+C:\Examples\task15\bin\Debug\net6.0\task15.deps.json
+C:\Examples\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+C:\Examples\task15\bin\Debug\net6.0\task15.dll
+C:\Examples\task15\bin\Debug\net6.0\ref\task15.dll
+C:\Examples\task15\bin\Debug\net6.0\task15.pdb
+C:\Examples\task15\obj\Debug\net6.0\task15.dll
+C:\Examples\task15\obj\Debug\net6.0\ref\task15.dll
+C:\Examples\task15\obj\Debug\net6.0\task15.pdb
+C:\Examples\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
